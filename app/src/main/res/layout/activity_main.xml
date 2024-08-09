@@ -28,7 +28,7 @@
         android:id="@+id/txtHoraAtual"
         android:layout_width="160dp"
         android:layout_height="77dp"
-        android:layout_marginTop="168dp"
+        android:layout_marginTop="176dp"
         android:clickable="false"
         android:fontFamily="sans-serif-black"
         android:format12Hour="hh:mm"
@@ -36,7 +36,7 @@
         android:textColor="#000000"
         android:textSize="55sp"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -54,6 +54,6 @@
         app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.459" />
+        app:layout_constraintVertical_bias="0.472" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
